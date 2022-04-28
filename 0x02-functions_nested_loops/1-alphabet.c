@@ -7,7 +7,7 @@
 *
 */
 
-void print_alphabet(void)
+void int(void)
 {
 int ch;
 
