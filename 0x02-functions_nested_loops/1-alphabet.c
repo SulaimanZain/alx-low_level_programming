@@ -4,7 +4,8 @@
 *  * main - Prints the alphabetic
 *   *
 *    * Return: Always (Success)
-*     */
+*
+*/
 
 void print_alphabet(void)
 {
