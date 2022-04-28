@@ -15,4 +15,9 @@ return (1);
 else
 {
 return (0);
+
+/*
+* alphabet is checked
+*/
+ 
 }
