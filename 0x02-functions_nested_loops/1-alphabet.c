@@ -1,13 +1,13 @@
 #include"main.h"
 
 /**
-*  * main - Prints the alphabetic
+*  * print_alphabet - Prints the alphabetic
 *   *
 *    * Return: Always (Success)
 *
 */
 
-void int(void)
+void print_alphabet(void)
 {
 int ch;
 
